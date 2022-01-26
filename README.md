@@ -1,2 +1,2 @@
-# edu-fron-PN07
-E-ducation web app; navigation started
+# edu-front-PN06
+E-ducation web app: header and footer defined
